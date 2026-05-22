@@ -5400,7 +5400,7 @@ body .table {
     }
     /* Surfaces & text */
     body {
-      background-color: #12151a;
+      background-color: #151515 !important;
       color: #e8eaed;
     }
 
@@ -5429,7 +5429,7 @@ body .table {
     input:not([type="checkbox"]):not([type="radio"]),
     textarea,
     select {
-      background-color: #242a33;
+      background-color: #1e1e1e;
       color: #e8eaed;
       border-color: #3d4654;
     }
@@ -5442,7 +5442,7 @@ body .table {
     }
 
     input[disabled] {
-      background-color: #1e2329;
+      background-color: #1e1e1e;
       color: #8b939e;
     }
 
@@ -5451,7 +5451,7 @@ body .table {
     }
 
     .form .suggestion-list .searchbox {
-      background-color: #242a33;
+      background-color: #1e1e1e;
       border-color: #3d4654;
     }
 
@@ -5464,7 +5464,7 @@ body .table {
     }
 
     .form {
-      background-color: #1e2329;
+      background-color: #1e1e1e;
     }
 
     .form-field label {
@@ -5477,7 +5477,7 @@ body .table {
     }
 
     .form-field .nesty-input {
-      background-color: #242a33;
+      background-color: #1e1e1e;
       color: #e8eaed;
       border-color: #3d4654;
     }
@@ -5519,9 +5519,9 @@ body .table {
     }
 
     .button-secondary {
-      color: #c5cad1;
+      color: #ffffff;
       border-color: #3d4654;
-      background-color: #242a33;
+      background-color: #1e1e1e;
     }
 
     .button-secondary:hover,
@@ -5534,8 +5534,8 @@ body .table {
 
     /* Header & navigation */
     .hc_header {
-      background-color: #161b22;
-      border-bottom-color: #3d4654;
+      background-color: #1a1a1a !important;
+      border-bottom-color: #696969;
     }
 
     .header {
@@ -5543,7 +5543,7 @@ body .table {
     }
 
     .nav-wrapper a {
-      color: #c5cad1 !important;
+      color: #ffffff !important;
     }
 
     .nav-wrapper a:hover {
@@ -5555,7 +5555,7 @@ body .table {
     }
 
     .user-nav[aria-expanded="true"] {
-      background-color: #242a33;
+      background-color: #1e1e1e;
       border-color: #3d4654;
       box-shadow: 0 4px 10px rgba(0, 0, 0, 0.35);
     }
@@ -5566,7 +5566,7 @@ body .table {
     }
 
     .breadcrumbs li a:visited {
-      color: #8ac8ff;
+      color: #ffffff;
     }
 
     .breadcrumbs__block {
@@ -5575,7 +5575,7 @@ body .table {
 
     /* Hero & search */
     .hero {
-      background-color: #0f2744;
+      background-color: #1e1e1e;
     }
 
     .welcome_text,
@@ -5584,13 +5584,13 @@ body .table {
     }
 
     .hero .search input[type="search"] {
-      background-color: #242a33;
+      background-color: #1e1e1e;
       border-color: #3d4654;
       color: #e8eaed;
     }
 
     .search input[type="search"] {
-      background-color: #242a33;
+      background-color: #1e1e1e;
       border-color: #3d4654;
       color: #e8eaed;
     }
@@ -5604,14 +5604,14 @@ body .table {
     }
 
     .requests-table-toolbar .search input[type="search"] {
-      background-color: #242a33;
+      background-color: #1e1e1e;
     }
 
     /* Cards & blocks */
     .blocks-item,
     .quick-articles > section {
-      background-color: #242a33;
-      border-color: #3d4654;
+      background-color: #252525;
+      border-color: #252525;
       color: #5eb3ff;
     }
 
@@ -5629,12 +5629,12 @@ body .table {
     }
 
     .blocks-item-link {
-      background-color: #242a33;
+      background-color: #1e1e1e;
       color: #e8eaed;
     }
 
     .blocks-item-description {
-      color: #a8b0bb;
+      color: #ffffff90;
     }
 
     .quick-articles h2,
@@ -5657,7 +5657,7 @@ body .table {
     .category-container .section-tree .section,
     .section-container ul.article-list,
     .section-container .section-lists {
-      background-color: #1e2329;
+      background-color: #1e1e1e;
     }
 
     .section-tree-title a,
@@ -5697,7 +5697,7 @@ body .table {
 
     /* Article */
     .article-info {
-      background-color: #1e2329;
+      background-color: #1e1e1e;
     }
 
     .article-body {
@@ -5738,13 +5738,13 @@ body .table {
     }
 
     .upload-dropzone {
-      background-color: #242a33;
+      background-color: #1e1e1e;
     }
 
     /* Tables */
     body .table,
     .table {
-      background-color: #242a33;
+      background-color: #1e1e1e;
       border-color: #3d4654;
     }
 
@@ -5831,7 +5831,7 @@ body .table {
     }
 
     .my-activities-nav {
-      background-color: #1e2329;
+      background-color: #1e1e1e;
     }
 
     .profile-section-sorter {
@@ -5849,7 +5849,7 @@ body .table {
 
     /* Requests & profile */
     .request-sidebar {
-      background-color: #1e2329;
+      background-color: #1e1e1e;
     }
 
     .profile-header .basic-info .name a {
@@ -5869,17 +5869,17 @@ body .table {
     }
 
     .profile-activity-contribution {
-      background-color: #242a33;
+      background-color: #1e1e1e;
     }
 
     .profile-activity-icon {
-      background-color: #242a33;
+      background-color: #1e1e1e;
       color: #8b939e;
     }
 
     /* Search results */
     .search-results-sidebar .sidenav-item {
-      background-color: #1e2329;
+      background-color: #1e1e1e;
       color: #e8eaed;
     }
 
@@ -5898,12 +5898,12 @@ body .table {
     .status-label-not-planned,
     .status-label-closed {
       background-color: #3d4654;
-      color: #c5cad1;
+      color: #ffffff;
     }
 
     /* Notifications */
     .notification {
-      color: #c5cad1;
+      color: #ffffff;
     }
 
     .notification-error {
@@ -5932,13 +5932,13 @@ body .table {
 
     .notification-dismiss,
     a.notification-dismiss {
-      color: #c5cad1;
+      color: #ffffff;
     }
 
     /* Dropdowns */
     .dropdown-menu,
     .hc_header .dropdown-menu[aria-expanded="true"] {
-      background-color: #242a33;
+      background-color: #1e1e1e;
       border-color: #3d4654;
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
     }
@@ -5984,11 +5984,11 @@ body .table {
     }
 
     .__with_fa .fa {
-      background-color: #242a33;
+      background-color: #1e1e1e;
     }
 
     .accordion_title {
-      background-color: #242a33;
+      background-color: #1e1e1e;
       border-color: #3d4654;
       color: #e8eaed;
     }
@@ -6006,11 +6006,11 @@ body .table {
 
     /* Footer (already dark; subtle tune for cohesion) */
     .footer {
-      background-color: #161b22;
+      background-color: #1a1a1a !important;
     }
 
     .footer_copyright {
-      background-color: #12151a;
+      background-color: #151515 !important;
     }
 
     .footer a,
@@ -6036,6 +6036,9 @@ body .table {
       .user-nav a:hover {
         color: #e8eaed;
       }
+    }
+    .blocks-item-title {
+      color: #ffffff !important;
     }
   }
 /* Header/Footer UI changes E */
