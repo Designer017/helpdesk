@@ -1291,6 +1291,14 @@ h1.form-header {
   list-style: none;
   padding: 0;
 }
+@media (max-width: 768px) {
+  .blocks-list.last-item .blocks-item{
+    margin-bottom: 20px !important;
+  }
+  .blocks-list.last-item .blocks-item:last-child {
+    margin-bottom: 0px !important;
+  }
+}
 
 @media (min-width: 768px) {
   .blocks-list,
@@ -5032,7 +5040,7 @@ html[dir="rtl"] .notification-left-aligned {
     margin: 0 0 15px 0;    
   }
   .quick-articles > section {
-    margin: 50px 0 0;    
+    margin: 25px 0 0;    
   }
 }
 @media (max-width: 464px) {
